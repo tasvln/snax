@@ -1,0 +1,54 @@
+<template>
+  <div>
+    <Nav/>
+    <div class="mx-10 p-8 flex items-center" style="background: rgba(252, 190, 4, 0.1); border-radius: 20px;">
+      <div class="w-1/2 mx-5">
+        <p class="text-4xl max-w-xl font-bold">Order Food & Drinks anytime from your phone</p>
+        <p class="text-xl max-w-sm font-normal italic mt-4 text-gray-700">hey! Order food/drinks delicious food from our approved vendors around you.</p>
+        <div class="flex mt-8">
+          <a href="" class="bg-gray-900 flex items-center py-3 px-4" style="border-radius: 20px;">
+            <img src="../assets/appstore.svg" alt="">
+            <div class="mx-2">
+              <p class="text-white font-semibold text-xl">App Store</p>
+              <p class="text-white font-light text-sm text-center -mt-1">Coming soon!</p>
+            </div>
+          </a>
+          <a href="" class="bg-gray-900 flex items-center py-3 px-4 mx-3" style="border-radius: 20px;">
+            <img src="../assets/googleplay.svg" alt="">
+            <div class="mx-2">
+              <p class="text-white font-semibold text-xl">Google Play</p>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="w-1/2">
+        <img class="mx-auto" src="../assets/img1.svg" alt="">
+      </div>
+    </div>
+    <div class="mx-10 my-10 p-8 flex items-center" style="background: rgba(252, 190, 4, 0.1); border-radius: 20px;">
+      <div class="w-1/2">
+        <img class="mx-auto" src="../assets/img2.svg" alt="">
+      </div>
+      <div class="w-1/2">
+          <p class="text-4xl max-w-xl font-bold">Save & Quickly order your Foods/Drinks</p>
+          <p class="text-xl max-w-sm font-normal italic mt-4 text-gray-700">Ordering haven’t felt so simple and easy till you try out snax, save your regular <b style="color:#FC9604">snax</b> and get it right on time.</p>
+          <div class="mt-8">
+            <a href="" class="bg-gray-900 text-white font-semibold py-4 px-5" style="border-radius: 20px;">Learn more ></a>
+          </div>
+      </div>
+    </div>
+    <div class="mx-10 my-48 p-8" style="border-radius: 20px;">
+      <p class="text-center font-bold text-4xl text-gray-800">Vendorship 😊</p>
+      <p class="text-center my-4 text-gray-700">Want to be an approved vendor and work with us to <br> satisfy the taste buds of customers?</p>
+      <div style="margin: 0 auto; text-align: center; margin-top: 60px;">
+        <a href="" class="py-3 px-6 rounded-full font-bold text-xl" style="background: rgba(252, 190, 4, 0.1); color: #FC9604;">REGISTER NOW</a>
+      </div>
+    </div>
+    <Foot/>
+  </div>
+</template>
+
+<script>
+export default {}
+</script>
+
