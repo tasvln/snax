@@ -1,7 +1,7 @@
 <template>
   <div>
     <Nav/>
-    <div class="mx-10 p-8 flex items-center" style="background: rgba(252, 190, 4, 0.1); border-radius: 20px;">
+    <div class="bile mx-10 p-8 flex items-center" style="background: rgba(252, 190, 4, 0.1); border-radius: 20px;">
       <div class="w-1/2 mx-5">
         <p class="text-4xl max-w-xl font-bold">Order Food & Drinks anytime from your phone</p>
         <p class="text-xl max-w-sm font-normal italic mt-4 text-gray-700">hey! Order food/drinks delicious food from our approved vendors around you.</p>
@@ -37,6 +37,13 @@
           </div>
       </div>
     </div>
+    <div class="mx-10 my-10 p-16" style="background: rgba(252, 190, 4, 0.1); border-radius: 20px;">
+        <p class="text-center text-black font-semibold text-3xl">Want an ordering app like <b style="color: #FC9604;">Snax?</b></p>
+        <p class="text-gray-600 my-3" style="text-align: center;">We the developers of Snax would love to offer our <br> services to you, so you can build your own platform.</p>
+        <div class="my-10" style="margin: 0 auto; text-align: center;">
+          <a class="text-center text-white font-bold text-xl py-2 px-6 rounded-full" href="" style="background: #FCBE04;">Get Started</a>
+        </div>
+    </div>
     <div class="mx-10 my-48 p-8" style="border-radius: 20px;">
       <p class="text-center font-bold text-4xl text-gray-800">Vendorship 😊</p>
       <p class="text-center my-4 text-gray-700">Want to be an approved vendor and work with us to <br> satisfy the taste buds of customers?</p>
@@ -52,3 +59,6 @@
 export default {}
 </script>
 
+<style scoped>
+ 
+</style>
