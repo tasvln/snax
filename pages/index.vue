@@ -122,6 +122,10 @@ export default {}
     width: 100%;
     margin: 0;
   }
+  .conc{
+    margin-left: 1.20rem;
+    margin-right: 1.20rem;
+  }
   .head{
     font-size: 2.0rem;
   }
