@@ -22,12 +22,12 @@
         </div>
       </div>
       <div class="fullwidth w-1/2">
-        <img class="mx-auto" src="../assets/img1.svg" alt="">
+        <img class="mx-auto" src="../assets/img1.png" alt="">
       </div>
     </div>
     <div class="blo-ck conc mx-10 my-10 p-8 flex items-center height" style="background: rgba(252, 190, 4, 0.1); border-radius: 20px;">
       <div class="w-1/2 fullwidth">
-        <img class="mx-auto" src="../assets/img2.svg" alt="">
+        <img class="mx-auto" src="../assets/img2.png" alt="">
       </div>
       <div class="w-1/2 fullwidth mx-8 top">
           <p class="head text-4xl max-w-xl font-bold">Save & Quickly order your Foods/Drinks</p>

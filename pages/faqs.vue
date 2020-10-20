@@ -11,7 +11,7 @@
         </div>
         <div class="conc p-8 mx-10 mb-8" style="background: rgba(252, 190, 4, 0.1); border-radius: 20px;">
             <p class="text-xl text-center font-bold mb-3 text-black">How do become a vendor?</p>
-            <p class="text-lg text-center max-w-4xl mx-auto font-normal text-gray-800">Just <a target="_blank" href="http://snax-api.lazybuy.online/register" style="color: #FC9604;">Register</a> to become a vendor and wait till you're approved.</p>
+            <p class="text-lg text-center max-w-4xl mx-auto font-normal text-gray-800">Just <a target="_blank" href="http://snax-api.lazybuy.online/register" style="color: #FC9604;v ">Register</a> to become a vendor and wait till you're approved.</p>
         </div>
         <div class="conc p-8 mx-10 mb-8" style="background: rgba(252, 190, 4, 0.1); border-radius: 20px;">
             <p class="text-xl text-center font-bold mb-3 text-black">What foods are available?</p>
