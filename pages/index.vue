@@ -33,7 +33,7 @@
           <p class="head text-4xl max-w-xl font-bold">Save & Quickly order your Foods/Drinks</p>
           <p class="sub text-xl max-w-sm font-normal italic mt-4 text-gray-700">Ordering haven’t felt so simple and easy till you try out snax, save your regular <b style="color:#FC9604">snax</b> and get it right on time.</p>
           <div class="mt-8">
-            <a href="" class="midddle bg-gray-900 text-white font-semibold py-4 px-5" style="border-radius: 20px;">Learn more ></a>
+            <a class="midddle bg-gray-900 text-white font-semibold py-4 px-5" style="border-radius: 20px;">Order Now!</a>
           </div>
       </div>
     </div>
@@ -41,14 +41,14 @@
         <p class="head bottom  text-center text-black font-semibold text-3xl">Want an ordering app like <b style="color: #FC9604;">Snax?</b></p>
         <p class="sub down text-gray-600 mb-8 mt-2" style="text-align: center;">We the developers of Snax would love to offer our <br class="br"> services to you, so you can build your own platform.</p>
         <div class="my-16 " style="margin: 0 auto; text-align: center;">
-          <a class="text-center text-white font-bold text-xl py-2 px-6 rounded-full" href="" style="background: #FCBE04;">Get Started</a>
+          <a class="text-center text-white font-bold text-xl py-2 px-6 rounded-full" href="/dev" style="background: #FCBE04;">Get Started</a>
         </div>
     </div>
     <div class="mx-10 conc padding my-48 p-8" style="border-radius: 20px;">
       <p class="head text-center font-bold text-4xl text-gray-800">Vendorship 😊</p>
       <p class="sub text-center my-4 text-gray-700">Want to be an approved vendor and work with us to <br class="br"> satisfy the taste buds of customers?</p>
       <div style="margin: 0 auto; text-align: center; margin-top: 60px;">
-        <a href="" class="py-3 px-6 rounded-full font-bold text-xl" style="background: rgba(252, 190, 4, 0.1); color: #FC9604;">REGISTER NOW</a>
+        <a target="_blank" href="http://snax-api.lazybuy.online/register" class="py-3 px-6 rounded-full font-bold text-xl" style="background: rgba(252, 190, 4, 0.1); color: #FC9604;">REGISTER NOW</a>
       </div>
     </div>
     <Foot/>
@@ -56,7 +56,9 @@
 </template>
 
 <script>
-export default {}
+export default {
+  
+}
 </script>
 
 <style scoped>

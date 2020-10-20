@@ -96,7 +96,7 @@
       text-align: center;
   }
   .te-xt{
-      font-size: 18px;
+      font-size: 16px;
   }
   .top{
       margin-top: 10px;
