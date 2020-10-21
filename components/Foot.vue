@@ -28,8 +28,8 @@
                 </div>
             </div>
             <div class="blo-ck cen-ter flex top items-center ml-auto -mx-4">
-                <p><a class="font-bold mx-4 text-gray-800 text-xl" href="">Faqs</a></p>
-                <p class="top"><a class="font-bold mx-4 text-gray-800 text-xl" href="">Become a vendor</a></p>
+                <p><a class="font-bold mx-4 text-gray-800 text-xl" href="/faqs">Faqs</a></p>
+                <p class="top"><a class="font-bold mx-4 text-gray-800 text-xl" target="_blank" href="http://snax-api.lazybuy.online/register">Become a vendor</a></p>
                 <p class="top"><a class="font-bold mx-4 text-gray-800 text-xl" href="">T&Cs</a></p>
             </div>
         </div>
