@@ -64,7 +64,7 @@
         <p class="font-light text-3xl mid-text">Get started now and</p>
         <p class="font-bold text-3xl mid-text">Build your Startup Seemlessly</p>
       </div>
-      <a target="_blank" href="" class="py-3 font-bold text-2xl px-8 rounded-full ml-auto bg-white norm-text" style="color:#FC9604;">GET STARTED</a>
+      <NuxtLink to="/getstarted" class="py-3 font-bold text-2xl px-8 rounded-full ml-auto bg-white norm-text" style="color:#FC9604;">GET STARTED</NuxtLink>
     </div>
     
     <Foot/>
