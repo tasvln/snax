@@ -10,5 +10,10 @@
 a,p, input, textarea, button{
   font-family: 'Poppins', sans-serif;
 }
+
+body{
+  margin: auto;
+  max-width: 1440px;
+}
 </style>
 
