@@ -5,18 +5,18 @@
           <div class="my-10 mx-10">
               <p class="font-extrabold mid-text text-3xl full-width-max max-w-lg my-4">Build your Startup seemlessly without stress</p>
               <p class="italic text-lg mt-10 text-gray-600">Fill the form below to get started</p>
-              <form class="max-w-2xl">
+              <form class="max-w-2xl" action="https://formspree.io/f/moqpnddr" method="POST">
                 <div class="my-6">
-                    <input type="text" name="Startup Name" placeholder="Startup Name*" class="w-full py-4 px-8 rounded-lg placeholder-gray-600" style="background: rgba(252, 190, 4, 0.1);">
+                    <input type="text" name="Startup Name" placeholder="Startup Name*" class="w-full py-4 px-8 rounded-lg placeholder-gray-600" style="background: rgba(252, 190, 4, 0.1);" required>
                 </div>
                 <div class="my-6">
-                    <input type="text" name="Full Name" placeholder="Full Name*" class="w-full py-4 px-8 rounded-lg placeholder-gray-600" style="background: rgba(252, 190, 4, 0.1);">
+                    <input type="text" name="Full Name" placeholder="Full Name*" class="w-full py-4 px-8 rounded-lg placeholder-gray-600" style="background: rgba(252, 190, 4, 0.1);" required>
                 </div>
                 <div class="my-6">
-                    <input type="email" name="Email" placeholder="Email*" class="w-full py-4 px-8 rounded-lg placeholder-gray-600" style="background: rgba(252, 190, 4, 0.1);">
+                    <input type="email" name="Email" placeholder="Email*" class="w-full py-4 px-8 rounded-lg placeholder-gray-600" style="background: rgba(252, 190, 4, 0.1);" required>
                 </div>
                 <div class="flex relative items-center">
-                    <select name="Template" class="block appearance-none w-full py-4 px-8 rounded-lg text-gray-600" style="background: rgba(252, 190, 4, 0.1);">
+                    <select name="Template" class="block appearance-none w-full py-4 px-8 rounded-lg text-gray-600" style="background: rgba(252, 190, 4, 0.1);" required>
                         <option selected>Choose Template*</option>
                         <option>App</option>
                         <option>App + Dashboard</option>
@@ -26,7 +26,7 @@
                     </div>
                 </div>
                 <div class="my-6">
-                    <textarea name="Description" placeholder="Startup Description*" class="w-full py-6 px-8 rounded-lg placeholder-gray-600" style="height:350px; background: rgba(252, 190, 4, 0.1); resize: none;"></textarea>
+                    <textarea name="Description" placeholder="Startup Description*" class="w-full py-6 px-8 rounded-lg placeholder-gray-600" style="height:350px; background: rgba(252, 190, 4, 0.1); resize: none;" required></textarea>
                 </div>
                 <div class="my-6">
                     <button class="w-full py-4 px-8 rounded-lg font-bold text-white" style="background: #FCBE04;">Submit</button>
